@@ -1,1 +1,1 @@
-Static marketing site for **Horizon of Steel**, hosted on GitHub Pages with a custom domain.
+Static site for **Horizon of Steel** (`site/`), served by the `horizonofsteel` Cloudflare Worker: `npx wrangler deploy`.

@@ -36,3 +36,7 @@ out/
 # === JetBrains IDEs ===
 .idea/
 *.iml
+
+# === Local ===
+.trash/
+.wrangler/
