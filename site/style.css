@@ -63,6 +63,9 @@ img, video { display: block; max-width: 100%; height: auto; }
 }
 
 .button:hover { background: rgba(240, 138, 60, 0.28); color: var(--ink); }
+.button.primary { background: var(--glow); color: var(--bg); font-weight: 700; }
+.button.primary:hover { background: var(--link); color: var(--bg); }
+.hero .buttons { margin: 0 0 24px; }
 
 section { padding: 56px 0; border-bottom: 1px solid var(--line); }
 
